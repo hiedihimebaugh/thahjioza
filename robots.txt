@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohjichae.beznadyoga.com/sitemap.xml
